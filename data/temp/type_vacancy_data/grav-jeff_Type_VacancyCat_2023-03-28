@@ -1,7 +1,0 @@
-,Date,Type,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
-0,2023-03-28,Commercial,3.0,1.0,9.0,3.0
-1,2023-03-28,Duplex,11.0,2.0,34.0,88.0
-2,2023-03-28,Empty Lot,7.0,2.0,77.0,53.0
-3,2023-03-28,Mixed-Use,1.0,0.0,3.0,4.0
-4,2023-03-28,Multi-Unit,1.0,2.0,16.0,42.0
-5,2023-03-28,Single-Family,23.0,2.0,56.0,117.0
