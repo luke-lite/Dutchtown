@@ -1,0 +1,7 @@
+,Date,Type,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
+0,2022-09-13,Commercial,5.0,1.0,16.0,6.0
+1,2022-09-13,Duplex,16.0,0.0,95.0,151.0
+2,2022-09-13,Empty Lot,6.0,1.0,98.0,88.0
+3,2022-09-13,Mixed-Use,1.0,0.0,5.0,5.0
+4,2022-09-13,Multi-Unit,4.0,0.0,32.0,68.0
+5,2022-09-13,Single-Family,18.0,5.0,131.0,196.0
