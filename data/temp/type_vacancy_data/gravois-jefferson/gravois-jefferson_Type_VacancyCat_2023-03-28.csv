@@ -1,4 +1,4 @@
-,Date,Type,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
+,Date,index,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
 0,2023-03-28,Commercial,4.0,1.0,14.0,6.0
 1,2023-03-28,Duplex,24.0,2.0,55.0,137.0
 2,2023-03-28,Empty Lot,8.0,2.0,103.0,79.0
