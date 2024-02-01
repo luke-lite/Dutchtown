@@ -1,0 +1,9 @@
+,Date,Type,B_Zero,B_Low,B_Medium,B_High
+0,2021-03-01,Commercial,0,0,6,68
+1,2021-03-01,Duplex,0,0,27,678
+2,2021-03-01,Empty Lot,0,0,715,4969
+3,2021-03-01,Multi-Unit,0,0,2,151
+4,2021-03-01,Other,0,0,37,166
+5,2021-03-01,Single-Family,0,0,35,886
+6,2021-03-01,Residential,0,0,64,1715
+7,2021-03-01,Mixed-Use/Other,0,0,37,166

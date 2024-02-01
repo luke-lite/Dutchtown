@@ -1,7 +1,9 @@
-,Date,index,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
+,Date,Type,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
 0,2022-06-05,Commercial,4.0,2.0,17.0,6.0
 1,2022-06-05,Duplex,9.0,0.0,122.0,155.0
 2,2022-06-05,Empty Lot,9.0,0.0,83.0,81.0
 3,2022-06-05,Mixed-Use,2.0,0.0,6.0,4.0
 4,2022-06-05,Multi-Unit,7.0,0.0,36.0,68.0
 5,2022-06-05,Single-Family,19.0,2.0,178.0,196.0
+6,2022-06-05,Residential,35.0,2.0,336.0,419.0
+7,2022-06-05,Mixed-Use/Other,2.0,0.0,6.0,4.0

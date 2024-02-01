@@ -1,0 +1,9 @@
+,Date,Type,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
+0,2022-01-23,Commercial,3.0,2.0,17.0,4.0
+1,2022-01-23,Duplex,6.0,0.0,190.0,62.0
+2,2022-01-23,Empty Lot,6.0,1.0,90.0,1.0
+3,2022-01-23,Mixed-Use,0.0,0.0,13.0,2.0
+4,2022-01-23,Multi-Unit,2.0,0.0,59.0,40.0
+5,2022-01-23,Single-Family,18.0,4.0,268.0,80.0
+6,2022-01-23,Residential,26.0,4.0,517.0,182.0
+7,2022-01-23,Mixed-Use/Other,0.0,0.0,13.0,2.0

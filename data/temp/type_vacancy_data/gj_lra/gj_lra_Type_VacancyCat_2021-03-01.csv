@@ -1,0 +1,9 @@
+,Date,Type,V_Indeterminant,V_Possible,V_Very_Likely,V_Definite
+0,2021-03-01,Commercial,0,0,0,1
+1,2021-03-01,Duplex,0,0,0,12
+2,2021-03-01,Empty Lot,0,0,0,76
+3,2021-03-01,Multi-Unit,0,0,0,3
+4,2021-03-01,Other,0,0,0,6
+5,2021-03-01,Single-Family,0,0,0,17
+6,2021-03-01,Residential,0,0,0,32
+7,2021-03-01,Mixed-Use/Other,0,0,0,6
